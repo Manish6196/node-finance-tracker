@@ -1,0 +1,14 @@
+[
+  {
+    "category": "Food",
+    "amount": 250,
+    "currency": "USD",
+    "date": "2024-10-30"
+  },
+  {
+    "category": "Travel",
+    "amount": 1200,
+    "currency": "USD",
+    "date": "2024-10-30"
+  }
+]
